@@ -11,6 +11,6 @@ A responsive front-end e-commerce website built using **HTML, CSS, and JavaScrip
 ## 📂 Tech Stack  
 - HTML5  
 - CSS3  
-- JavaScript (ES6)  
+- JavaScript
 
 
